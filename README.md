@@ -1,7 +1,3 @@
-Here's a README template for your IMDb Clone project built using Next.js and the TMDb API:
-
----
-
 # IMDb Clone
 
 IMDb Clone is a web application built using Next.js and the TMDb (The Movie Database) API, aiming to replicate the functionality and appearance of the IMDb (Internet Movie Database) platform. This project serves as a demonstration of integrating the TMDb API with a Next.js application.
@@ -76,4 +72,3 @@ TMDB_API_KEY=your-api-key
 ## Deployment
 
 To deploy the application, you can use platforms like Vercel, Netlify, or deploy it manually to your preferred hosting service.
-
